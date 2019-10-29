@@ -1,0 +1,14 @@
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\bin\Debug\netcoreapp2.2\Tavisca.Applauze.Api.deps.json
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\bin\Debug\netcoreapp2.2\Tavisca.Applauze.Api.runtimeconfig.json
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\bin\Debug\netcoreapp2.2\Tavisca.Applauze.Api.runtimeconfig.dev.json
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\bin\Debug\netcoreapp2.2\Tavisca.Applauze.Api.dll
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.RazorAssemblyInfo.cache
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.RazorAssemblyInfo.cs
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.AssemblyInfoInputs.cache
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.AssemblyInfo.cs
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\bin\Debug\netcoreapp2.2\Tavisca.Applauze.Api.pdb
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.dll
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.pdb
+C:\Users\vjola\source\repos\Tavisca.Applauze.Api\Tavisca.Applauze.Api\obj\Debug\netcoreapp2.2\Tavisca.Applauze.Api.csprojAssemblyReference.cache
